@@ -17,4 +17,14 @@ No computer required. Bring your questions.
  
 Large conference room, Wednesday at 1 p.m.
 
+------------------------------------------------------------------------------------------
  
+##Chartbeat - live stats
+-- Engagement vs. Pageviews - How are they different?
+
+##Google and Omniture - long-term trends
+-- Daily vs. Weekly vs. Monthly
+
+##Twitter analytics
+
+##Facebook
