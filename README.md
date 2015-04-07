@@ -16,6 +16,5 @@ And we'll talk about why some social media posts get more clicks than others.
 No computer required. Bring your questions.
  
 Large conference room, Wednesday at 1 p.m.
- 
-RSVP if you'll be there.
+
  
