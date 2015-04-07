@@ -34,3 +34,6 @@ Large conference room, Wednesday at 1 p.m.
 ##Twitter analytics
 
 ##Facebook
+
+-----------------------------------
+Attendees: Cody, Howard, Bob M., Melissa
