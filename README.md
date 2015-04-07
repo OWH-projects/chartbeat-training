@@ -37,5 +37,5 @@ Large conference room, Wednesday at 1 p.m.
 ##Facebook
 
 -----------------------------------
-Attendees: Cody, Howard, Bob M., Melissa, Joanne, Graham, Andrew N.
+Attendees: Cody, Howard, Bob M., Melissa, Joanne, Graham, Andrew N., Pam T., Chris P., Casey
 
