@@ -20,14 +20,16 @@ Large conference room, Wednesday at 1 p.m.
 ------------------------------------------------------------------------------------------
  
 ##Chartbeat - live stats
+<ul>
 <li> Engagement vs. Pageviews - How are they different?</li>
 <li> Traffic sources - Internal, Direct, Social, Search, Links</li>
 <li> Reader profile - New / Returning / Loyal</li>
-
+</ul>
 
 ##Google and Omniture - long-term trends
+<ul>
 <li> Unique visitors - Daily / Monthly</li>
-
+</ul>
 
 ##Twitter analytics
 
